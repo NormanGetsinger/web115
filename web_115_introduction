@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+<style>
+body {
+	background-color : rgb(0,133, 202);
+		font-family: Comic Sans MS;
+		align: center;
+
+
+}
+h1 {
+		color: rgb(191, 192, 191);
+		font-family: Comic Sans MS;
+		align: center;
+}
+p {
+	color: rgb(0,0,0);
+	align: center;
+
+
+}
+
+footer {
+
+
+}
+
+ul {
+
+color: rgb (0, 0, 0);
+
+}
+
+</style>
+<meta charset="utf-8" />
+
+<title> Norman Getsinger</title>
+
+
+
+</head>
+
+<body>
+	<header>
+		<h1> Introduction</h1>
+		<img src= "Normanatthebeach.jpeg" alt="Norm at the beach">
+			
+	</header>
+	
+	<body>
+	<ul>
+<li>Personal Background: I am a graduate of Appalachian State and I received my degree in Healthcare administration. Since gradutating though I have not found the jobs that I want. I feel like my degree is a bit useless as I have worked in Sales and customer service since then. I like to cook, play chess, read a little bit and explore the city when I can find some people to join me. </li>
+<li>Professional Background: I have worked in sales and customer service since graduating college. I am working towards getting a certificate through cpcc and then will attempt to transition into the tech field. Experience really is everything, if I only have experience in customer service and sales then I need to move on because I think I have hit my limit with the negative energy in these call centers.</li>
+<li>Academic Background: I went to Providence High school and graduated in 2011. After that I went to Appalachian State University and graduated in 2015 with a degree in Healthcare Administration.</li>
+<li>My primary computer platform is an Acer PC. I am currently running Windows 10 Pro. </li>
+<li>Course I am taking & Why:</li>
+<li>I am only taking WEB 115 this semester and that is because this course will help me get a Javascript certification. I have taken two course during a semester before, but with the amount of content in this course I feel that one is okay because I will be overwhelmed with more than this. </li>
+<li>Something interesting about me is that I have about 70 records and use my record player to play them. I am interested in music and have purchased some music making software, but there is a steep learning curve to using it and being proficient at creating music. One day I will get it down, but that might be in a year or two haha.</li> 	
+	</ul>
+	</body>
+	
+
+
+
+
+
+<footer>
+<p>
+
+
+<a href="https://github.com/NormanGetsinger">Github</a>|
+<a href="">Github Pages</a> |
+<a href="">GH Course Page</a>|
+<a href="https://www.codecademy.com/profiles/cloud5266579986">Codeacademy</a> |
+<a href="https://jsfiddle.net/user/normangetsinger/fiddles/">JSFiddle</a> |
+<a href="https://www.freecodecamp.org/fcc200539fb-1ba3-4b3c-b587-a521b72bc548">FreeCodeCamp</a> |
+<a href="https://www.linkedin.com/in/norman-getsinger-10314290/">LinkedIn</a> |
+<a href="https://profile.edx.org/u/normangetsinger">Edx</a> |
+<a href="https://www.khanacademy.org/profile/kaid_67244459398911656613476/courses">Khan Academy</a> |
+</p>
+
+<p>
+<a href="http://validator.w3.org/check?uri=referer"><img src="images/button_html5_yellow.gif" alt="Yellow HTML button"></a>
+<a href="http://jigsaw.w3.org/css-validator/check/referer"><img src="images/button_css3_blue.gif" alt="Blue CSS validation button"></a>
+
+</p>
+</footer>
+
+</body>
+
+</html>
