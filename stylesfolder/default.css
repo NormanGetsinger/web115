@@ -11,8 +11,73 @@ body
  
   margin: 100px;
   font-family: Comic Sans MS;
-  color: silver;
-  background-color: blue;
+  color: #202020;
+  background-color: #FF3333;
   font-size: 100%;
 }
 
+
+h1 {
+		color: #202020;
+		font-family: Comic Sans MS;
+		display: block;
+  		margin-left: auto;
+ 		margin-right: auto;
+}
+	
+h2 {
+	font-family: Comic Sans MS;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+}	
+	
+p {
+	display: block;
+	color: #202020;
+	text-align: center;
+	
+
+}
+	
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+	display: block;
+	text-align: center;
+	
+
+}
+
+ul {
+
+color: #202020;
+margin-left: 20 pixels;
+margin-right: 20 pixels;
+
+}
+
+
+
+/* The styles for links are below */
+
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: green;
+}
+
+a:active {
+  color: yellow;
+}
