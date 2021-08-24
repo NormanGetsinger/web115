@@ -1,83 +1,88 @@
-/*
+/* Not my css. this is a test */
 
-web115 css page. This will be my template for css stylesheets moving forward.
-
-
-*/
 
 
 body
 {
- 
-  margin: 100px;
-  font-family: Comic Sans MS;
-  color: #202020;
-  background-color: #FF3333;
-  font-size: 100%;
+  margin: 30px;
+  font-family: 'Montserrat', sans-serif;	
+  background-color: #1f2833;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  margin: 0 80px;
+  
 }
 
+header{
+	color: #FF379B;
+}
 
 h1 {
-		color: #202020;
-		font-family: Comic Sans MS;
-		display: block;
-  		margin-left: auto;
- 		margin-right: auto;
-}
-	
-h2 {
-	font-family: Comic Sans MS;
-	display: block;
-  	margin-left: auto;
- 	margin-right: auto;
-}	
-	
-p {
-	display: block;
-	color: #202020;
-	text-align: center;
-	
-
-}
-	
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+	font-family: 'Sacramento', cursive;
+	font-size: 60px;
 }
 
-footer {
-	display: block;
-	text-align: center;
-	
-
+h3, ul {
+	text-align: left;
 }
 
-ul {
-
-color: #202020;
-margin-left: 20 pixels;
-margin-right: 20 pixels;
-
+a {
+	text-decoration: none;
+	text-align: left;
 }
-
-
-
-/* The styles for links are below */
-
 
 a:link {
-  color: blue;
+	color: #FF379B;
 }
 
-a:visited {
-  color: red;
+/* Main */
+main p {
+  text-align: left;
 }
 
-a:hover {
-  color: green;
+main a:visited {
+	color: #FF379B;
+}
+main a:hover {
+	background-color: #7a7a7a;
+	color: #FF379B;
+}
+main a:focus {
+	outline: thin dotted;
+}
+main a:hover, main a:active {
+	outline: 0;
+}
+li {
+	margin: 10px 0;
 }
 
-a:active {
-  color: yellow;
+/* Footer */
+footer img{
+  height: 31px;
+  width: 88px;
+}
+footer a:visited {
+	color: #FF379B;
+}
+footer a:hover {
+	background-color: #7a7a7a;
+	color: #FF379B;
+}
+footer {
+  padding-top: 5px;
+	width: 100%;
+	height: 30px;
+  font-size: 20px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: -10px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+footer a {
+	color: #FF379B;
+}
 }
