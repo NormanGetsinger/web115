@@ -62,7 +62,7 @@ color : yellow;
 
 
 table{
-  width: 60%;
+  width: 90%;
   margin: 10;
 }
 
@@ -70,4 +70,22 @@ table, th, td {
   border: 3px solid rgb(153, 153, 0);
   border-collapse: collapse;
   line-height: 1;
+}
+
+th{
+  font-size: 3em;
+  font-weight: bold;
+}
+
+td{
+  font-size: 1.5em;
+  font-weight: normal;
+}
+
+td:nth-child(even), th:nth-child(even) {
+  background-color: rgb(204, 0, 0);
+}
+
+td:nth-child(odd), th:nth-child(odd) {
+  background-color: rgb(204, 0, 0);
 }
