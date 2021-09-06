@@ -61,7 +61,13 @@ color : yellow;
 }
 
 
-td {
-  display: table-cell;
-  vertical-align: inherit;
+table{
+  width: 60%;
+  margin: 10;
+}
+
+table, th, td {
+  border: 3px solid rgb(153, 153, 0);
+  border-collapse: collapse;
+  line-height: 1;
 }
