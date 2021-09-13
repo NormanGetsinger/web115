@@ -9,44 +9,75 @@ gold #d1b904  */
 /* Should the headings be different font? */
 body {
 margin : 100px;
-font-family : Comic Sans MS;
+font-family : "Comic Sans MS";
 color: #40e0d0;
 background-color : #F93B3B;
 font-size : 100%;
 }
+
 h1 {
 margin : 100px;
 text-align: center;
-font-family : Comic Sans MS;
+font-family : "Comic Sans MS";
 color: #d1b904;
 display : block;
 margin-left : auto;
 margin-right : auto;
 }
-h2 {
-font-family : Comic Sans MS;
+h2, h3, h4 {
+font-family : "Comic Sans MS";
 text-align: center;
 color: #d1b904;
 display : block;
 margin-left : auto;
 margin-right : auto;
 }
+
+
+
 p {
-color: #05b044;
+color: #40e0d0;
 display : block;
 text-align : center;
 }
 
 footer {
-color: #05b044;
+color: #40e0d0;
 display : block;
 text-align : center;
 }
-ul {
-color : #05b044;
+ul,ol {
+color : #40e0d0;
 margin-left : 20px;
 margin-right : 20px;
+text-align:center;
 }
+
+/* my li is all messed up. */
+
+li {
+margin:0px auto 0px auto;
+display:block;
+}
+
+nav {
+	text-align: center;
+}
+
+a {
+	text-align: right;
+	float: left;
+}
+
+.swtl a{
+	margin: 0px;
+	padding: 10px;
+	text-align: center;
+	float: left;
+}
+
+
+
 a:link {
 color : blue;
 }
@@ -62,8 +93,8 @@ color : yellow;
 
 
 table{
-  width: 90%;
-  margin: 10;
+  width: 100%;
+  margin: 10px;
 }
 
 table, th, td {
@@ -81,5 +112,3 @@ td{
   font-size: 1.5em;
   font-weight: normal;
 }
-
-
