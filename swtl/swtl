@@ -1,1 +1,117 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>swtl chapters 1-10</title>
+<link rel="stylesheet" href="m1a_stylesheet.css">
 
+</head>
+<body>
+	<header>
+		<h1>A Smarter Way to Learn</h1>
+			<h2>SWTL chapters 1-10</h2>
+	</header>
+	
+	<main>
+	<div> <h3>Chapter 1: Alerts</h3>
+	<p>Alerts are things that a user will see when visiting a website or clicking on a button</p>
+	<p>input: alert("Welcome to Mr. G's asian kitchen!");</p>
+	<p>output: Welcome to Mr.G's asian kitchen!</p>
+	</div>
+	
+	<div> <h3>Chapter 2: Variables for strings</h3>
+		<p>A variable is a string if there are quotes around it.</p>
+		<p>input: var name = "John:;</p>
+		<p>output: console.log(name); will return John</p>
+	</div>
+	
+	
+	<div> <h3>Chapter 3: Variables for Numbers</h3>
+	<p>Variables can be numbers, so long as quotes are not around the number</p>
+	<p>input:var salmonRoll = 9.50;, var tunaSashimi = 3;, total = salmonRoll + tunaSashimi;</p>
+	<p>console.log(total); output: 12.5</p>
+	</div>
+	
+	<div> <h3>Chapter 4: Variable Names Legal and Illegal</h3>
+	
+	<ol>
+		<li>You cannot use a space for a variable name, an example would be var sushi roll.</li>
+		<li>You can't use reserved words for variable names in Javascript.</li>
+		<li>Legal characters that are not alphabet characters or numbers are _ and $.</li>
+		<li>All variables should be written using camelCasing. var salmonRoll is fine, var salmonroll is not.</li>
+	</ol>
+	
+	</div>
+	
+	<div> <h3>Chapter 5: Math Expressions: familiar operators</h3>	
+		<p>These are operators that we have been using our entire life and they are very useful in Javascript</p>
+		
+		<ul>
+			<li>* is multiplication</li>
+			<li>/ is division</li>
+			<li>+ is addition</li>
+			<li>- is subtraction</li>
+			<li>% is modulus</li>
+			
+	</ul>
+	
+	</div>
+	
+	<div> <h3>Chapter 6: Math Expressions: unfamiliar operators</h3>
+	<p>These are expressions that can increase or decrease a variable by one. The operators are ++ and --.</p>
+	<p>x = 5</p>
+	<p>x++</p>
+	<p>console.log(x); this will return 6</p>
+	</div>
+	
+	<div><h3>Chapter 7: Math Expressions: eliminating ambiguity</h3>
+	<p> This is all about using paranthesis to control the order of operation.</p>
+	<p>An example would be (3*4)-(2+6) will equal 4 </p>
+	</div>
+	
+	<div><h3>Chapter 8: Concatenating text strings</h3>
+	<p>You would use the + operator to put strings together.</p>
+	<p>An example might be var thankYouMessage = "Thank you for your " + "purchase, " + "Mike."</p>
+	<p>You would then get the message, Thank you for your purchase, Mike.</p>
+	
+	</div>
+	
+	<div> <h3>Chapter 9: Prompts</h3>
+		<p>A prompt is similar to an alert, but the user is able to type something into the box.</p>
+		<p>An example would be prompt("What would you like to order?");
+	</div>
+	
+	<div> <h3>Chapter 10: if statements</h3>
+	<p>If statements test your code to see if something is true.</p>
+	<p>An example would be, if(purchase === "phoOrderB"){<br>
+		purchase = "Steak Pho";<br>
+	}<br>
+	</div>
+	
+	</main>
+	
+<footer>
+
+<p>
+<a href="https://github.com/NormanGetsinger">Github</a>|
+<a href="https://normangetsinger.github.io/ngetsin0.github.io/">Github Pages</a> |
+<a href="https://normangetsinger.github.io/ngetsin0.github.io/web_115_introduction.html">GH Course Page</a>|
+<a href="https://www.codecademy.com/profiles/cloud5266579986">Codeacademy</a> |
+<a href="https://jsfiddle.net/user/normangetsinger/fiddles/">JSFiddle</a> |
+<a href="https://www.freecodecamp.org/fcc200539fb-1ba3-4b3c-b587-a521b72bc548">FreeCodeCamp</a> |
+<a href="https://www.linkedin.com/in/norman-getsinger-10314290/">LinkedIn</a> |
+<a href="https://profile.edx.org/u/normangetsinger">Edx</a> |
+<a href="https://www.khanacademy.org/profile/kaid_67244459398911656613476/courses">Khan Academy</a> |
+</p>
+
+<p>Page created by Norm Productions (c)</p>
+
+<a href="https://validator.w3.org/nu/?showsource=yes&showimagereport=yes&doc=https%3A%2F%2Fcwarre11.github.io%2FWEB115%2F"><img src="html5_button_yellow.gif" alt="Yellow HTML button"></a>
+<a href="https://jigsaw.w3.org/css-validator/"><img src="css3_button_blue.gif" alt="Blue CSS validation button"></a>
+
+
+</footer>
+
+
+
+</body>
+</html>
