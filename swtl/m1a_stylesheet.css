@@ -58,6 +58,15 @@ margin:0px auto 0px auto;
 display:block;
 }
 
+
+.swtl a{
+	margin: 0px;
+	padding: 10px;
+	text-align: center;
+	float: left;
+}
+
+
 a:link {
 color : blue;
 }
