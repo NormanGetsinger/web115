@@ -1,0 +1,95 @@
+/* css for m1a */
+
+
+
+/* The standard colors that I want to use here are red #c91104, green #05b044, 
+gold #d1b904  */
+
+/* Should the headings be different font? */
+body {
+margin : 100px;
+font-family : Comic Sans MS;
+color: #40e0d0;
+background-color : #F93B3B;
+font-size : 100%;
+}
+h1 {
+margin : 100px;
+text-align: center;
+font-family : Comic Sans MS;
+color: #d1b904;
+display : block;
+margin-left : auto;
+margin-right : auto;
+}
+h2, h3, h4 {
+font-family : Comic Sans MS;
+text-align: center;
+color: #d1b904;
+display : block;
+margin-left : auto;
+margin-right : auto;
+}
+
+
+
+p {
+color: #40e0d0;
+display : block;
+text-align : center;
+}
+
+footer {
+color: #40e0d0;
+display : block;
+text-align : center;
+}
+ul,ol {
+color : #40e0d0;
+margin-left : 20px;
+margin-right : 20px;
+text-align:center;
+}
+
+/* my li is all messed up. */
+
+li {
+margin:0px auto 0px auto;
+display:block;
+}
+
+a:link {
+color : blue;
+}
+a:visited {
+color : blue;
+}
+a:hover {
+color : green;
+}
+a:active {
+color : yellow;
+}
+
+
+table{
+  width: 100%;
+  margin: 10;
+}
+
+table, th, td {
+  border: 3px solid rgb(153, 153, 0);
+  border-collapse: collapse;
+  line-height: 1;
+}
+
+th{
+  font-size: 3em;
+  font-weight: bold;
+}
+
+td{
+  font-size: 1.5em;
+  font-weight: normal;
+}
+
