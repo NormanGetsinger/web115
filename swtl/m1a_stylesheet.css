@@ -9,8 +9,8 @@ gold #d1b904  */
 body {
 margin : 100px;
 font-family : "Comic Sans MS";
-color: #40e0d0;
-background-color : #F93B3B;
+color: #40e0d0; /* What is this color doing? */
+background-color : #453e38;
 font-size : 100%;
 }
 
@@ -18,7 +18,7 @@ h1 {
 margin : 100px;
 text-align: center;
 font-family : "Comic Sans MS";
-color: #d1b904;
+color: #e62c2c;
 display : block;
 margin-left : auto;
 margin-right : auto;
@@ -35,18 +35,18 @@ margin-right : auto;
 
 
 p {
-color: #40e0d0;
+color: #d1b904;
 display : block;
 text-align : center;
 }
 
 footer {
-color: #40e0d0;
+color: #d1b904;
 display : block;
 text-align : center;
 }
 ul,ol {
-color : #40e0d0;
+color : #d1b904;
 margin-left : 20px;
 margin-right : 20px;
 text-align:center;
@@ -66,7 +66,6 @@ nav {
 a {
 	text-align: right;
 	float: left;
-	padding: 10px;
 }
 
 .swtl a{
@@ -74,6 +73,14 @@ a {
 	padding: 10px;
 	text-align: center;
 	float: left;
+}
+
+form {
+	
+	width: 30%;
+	padding: 10px;
+	margin: 0 auto;
+	border: 4px solid gold;
 }
 
 
@@ -112,3 +119,4 @@ td{
   font-size: 1.5em;
   font-weight: normal;
 }
+
