@@ -32,6 +32,13 @@ margin-left : auto;
 margin-right : auto;
 }
 
+.validate_button img {
+display: block;
+margin: 0px;
+margin-left: auto;
+margin-right: auto;
+
+}
 
 
 p {
