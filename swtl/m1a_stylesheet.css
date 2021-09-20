@@ -40,6 +40,13 @@ display : block;
 text-align : center;
 }
 
+.brand_logo p {
+margin: auto;
+padding: 30px;
+width: 50%;
+
+}
+
 footer {
 color: #d1b904;
 display : block;
