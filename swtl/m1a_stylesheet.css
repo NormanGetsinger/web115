@@ -45,6 +45,13 @@ color: #d1b904;
 display : block;
 text-align : center;
 }
+.footer_links a{
+	margin: 0px;
+	padding: 10px;
+	text-align: center;
+	float: left;
+}
+
 ul,ol {
 color : #d1b904;
 margin-left : 20px;
