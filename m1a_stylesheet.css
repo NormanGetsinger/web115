@@ -33,6 +33,13 @@ margin-left : auto;
 margin-right : auto;
 }
 
+.validate_button img {
+display: block;
+margin: 0px;
+margin-left: auto;
+ margin-right: auto;
+
+}
 
 
 p {
@@ -69,19 +76,19 @@ display:block;
 }
 
 nav {
-	text-align: center;
+text-align: center;
 }
 
 a {
-	text-align: right;
-	float: left;
+text-align: right;
+float: left;
 }
 
 .swtl a{
-	margin: 0px;
-	padding: 10px;
-	text-align: center;
-	float: left;
+margin: 0px;
+padding: 10px;
+text-align: center;
+float: left;
 }
 
 
