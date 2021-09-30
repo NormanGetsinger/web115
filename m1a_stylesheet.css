@@ -104,12 +104,13 @@ form {
 }
 
 
+/* link styles */
 
 a:link {
 color : orange;
 }
 a:visited {
-color : blue;
+color : orange;
 }
 a:hover {
 color : green;
