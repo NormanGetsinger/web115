@@ -139,3 +139,10 @@ td{
   font-size: 1.5em;
   font-weight: normal;
 }
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
