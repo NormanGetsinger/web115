@@ -141,3 +141,22 @@ td{
   font-weight: normal;
 }
 
+/* Nav bar styling */
+.navbar {
+	display: inline;
+	float: left;
+}
+
+.navbar {
+	display: block;
+	padding: 10px;
+	background-color: #dddddd;
+}
+.navbar {
+	background-color: #dddddd;
+	list-style-type: none;
+	margin: 10px;
+	padding: 10px;
+	overflow: hidden;
+}
+
