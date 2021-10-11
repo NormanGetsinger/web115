@@ -48,16 +48,15 @@ width: 50%;
 
 }
 
-footer {
-color: #d1b904;
-display : block;
-text-align : center;
-}
+
 a.footer_links {
 margin: 0px;
 padding: 10px;
 text-align: center;
 float: left;
+color: #d1b904;
+display : block;
+text-align : center;
 }
 
 
