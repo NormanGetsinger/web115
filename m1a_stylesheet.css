@@ -64,12 +64,13 @@ text-align : center;
 	display: block;
 }
 
-ul,ol { /* What classes do you need to use moving forward?*/
-color : #d1b904;
+/* Use this later
+ul,ol { 
 margin-left : 20px;
 margin-right : 20px;
 text-align:center;
 }
+*/
 
 /* my li is all messed up. */
 
@@ -105,7 +106,7 @@ form {
 
 
 /* link styles */
-
+/* maybe just use for footer?*/
 a:link {
 color : orange;
 }
