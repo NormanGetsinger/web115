@@ -59,11 +59,11 @@ color: #d1b904;
 display : block;
 text-align : center;
 }
-.footer_links a{
-	margin: 0px;
-	padding: 10px;
-	text-align: center;
-	float: left;
+a.footer_links {
+margin: 0px;
+padding: 10px;
+text-align: center;
+float: left;
 }
 
 
